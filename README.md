@@ -1,9 +1,7 @@
-# Amazon-Sales-PowerBI-Analysis
-
-# 📊 Amazon Sales, Customer, Product & Fulfillment Analysis (Power BI)
+# 📊 Amazon Sales, Customer, Product , Inventory and Seller Analysis (Power BI)
 
 ## ✅ **Project Overview**
-This Power BI project presents a **comprehensive business analysis of Amazon's sales, customers, products, payments, order,seller and operations**. The purpose is to generate **actionable insights** for business leaders to understand performance, improve decision-making, and identify growth opportunities.
+This Power BI project presents a comprehensive analysis of Amazon's sales and operations data, covering key areas like Sales Performance, Customer Behavior, Product Trends, Inventory Status, and Seller Insights. The goal is to provide actionable business intelligence to support strategic decisions in e-commerce.
 
 ---
 
