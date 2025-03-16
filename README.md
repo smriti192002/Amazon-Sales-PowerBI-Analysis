@@ -73,7 +73,7 @@ This Power BI project presents a comprehensive analysis of Amazon's sales and op
 ## 🖼 **Dashboard Screenshots**
 
 > **Main Business Dashboard**
-> ![Main Dashboard](Amazon_Business_Dasboard_image.jpg)
+> ![Main Dashboard] (Amazon_Business_Dashboard/Amazon_Business_Dasboard_image.jpg)
 
 
 ## 🧭 **How to Use This Dashboard**
