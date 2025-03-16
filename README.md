@@ -77,8 +77,8 @@ This Power BI project presents a comprehensive analysis of Amazon's sales and op
 
 ## 🧭 **How to Use This Dashboard**
 
-1. **Open `Amazon_Sales_Analysis.pbix`** file in **Power BI Desktop**.
-2. Interact with **slicers** (Year, State, Category) to explore specific business segments.
+1. **Open `Amazon_Business_Dashboard.pbix`** file in **Power BI Desktop**.
+2. Interact with **slicers** (Year , Month, State) to explore specific business segments.
 3. Click on charts to **drill down** into detailed product, sales, and customer data.
 4. Analyze **return and payment performance** for operational improvements.
 
